@@ -1,4 +1,4 @@
-#Question Answering Model (BERT Base Cased)
+# Question Answering Model (BERT Base Cased)
 The Question Answering Model presented in this repository is built on BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art transformer-based architecture tailored for natural language processing tasks. Specifically, the model utilizes "bert-base-cased," a pre-trained version of BERT on cased English text. The primary objective of this model is to excel in question-answering tasks, where it interprets and responds to questions based on the provided information.
 
 **BERT Architecture:**
