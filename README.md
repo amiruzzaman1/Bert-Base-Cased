@@ -23,5 +23,5 @@ Evaluation metrics such as accuracy, recall, and F1 score are employed to quanti
 **Usage:**
 The model can be interactively tested through the provided link, where users can input questions based on a sample context, and the model generates corresponding answers.
 
-**Link to Model:**
+**Live Link to Model:**
 [Question Answering Model (BERT Base Cased)](https://amiruzzaman-bert-base-cased.hf.space/#question-answering-model-bert-base-cased)
