@@ -25,3 +25,6 @@ The model can be interactively tested through the provided link, where users can
 
 **Live Link to Model:**
 [Question Answering Model (BERT Base Cased)](https://amiruzzaman-bert-base-cased.hf.space/#question-answering-model-bert-base-cased)
+
+**Result**
+![image](https://github.com/amiruzzaman1/Bert-Base-Cased/assets/68743925/96b92bce-d68c-4a86-af0c-3f52f8e3ff40)
